@@ -15,6 +15,7 @@ public class BasicSwitchBreaks {
                 break;
             default:
                 System.out.println("default");
+                break;
         }
     }
 }
